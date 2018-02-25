@@ -2,4 +2,4 @@
 
 This is the second project in the Udacity [Self Driving Car Engineer](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) "nanodegree" program. It consists in training a neural network to classify pictures of traffic signs.
 
-A detailed description of the steps in included in the [writeup](https://github.com/hidooki/CarND-P1-FindingLanes/blob/master/writeup.md), while the code in contained in the Jupyter [Notebook](https://github.com/hidooki/CarND-P1-FindingLanes/blob/master/P1.ipynb). The final output is the video output folder. 
+A detailed description of the steps in included in the [writeup](https://github.com/hidooki/CarND-P2-TrafficSignClassifier/blob/master/writeup.md), while the code in contained in the Jupyter [Notebook](). 
